@@ -1,7 +1,7 @@
 import React from 'react'
 import { SafeAreaView, StatusBar } from 'react-native'
 
-import TextComponent from 'components/TextComponent'
+import TextComponent from '@/components/TextComponent'
 
 const App = () => {
   return (
